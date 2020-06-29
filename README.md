@@ -17,4 +17,4 @@ Style image ->
 Output image -> 
 
 
-![](styled.jpg)
+![](styled.jpeg)
