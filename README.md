@@ -17,4 +17,4 @@ Style image ->
 Output image -> 
 
 
-![](city.jpg)
+![](styled.jpg)
