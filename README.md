@@ -8,7 +8,13 @@ Input image ->
 ![](city.jpg)
 
 
-Output image -> 
+Style image -> 
 
 
 ![](sky.jpg)
+
+
+Output image -> 
+
+
+![](city.jpg)
